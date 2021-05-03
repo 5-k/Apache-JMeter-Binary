@@ -1,0 +1,46 @@
+2021-05-03 20:59:53,762 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-05-03 20:59:53,803 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-05-03 20:59:53,816 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: Version 5.3
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: java.version=13.0.2
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: os.name=Windows 10
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: os.arch=amd64
+2021-05-03 20:59:53,818 INFO o.a.j.JMeter: os.version=10.0
+2021-05-03 20:59:53,819 INFO o.a.j.JMeter: file.encoding=Cp1252
+2021-05-03 20:59:53,819 INFO o.a.j.JMeter: java.awt.headless=null
+2021-05-03 20:59:53,819 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-05-03 20:59:53,819 INFO o.a.j.JMeter: Available Processors =8
+2021-05-03 20:59:53,833 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-05-03 20:59:53,834 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-05-03 20:59:53,834 INFO o.a.j.JMeter: JMeterHome=C:\R\apache-jmeter-5.3
+2021-05-03 20:59:53,834 INFO o.a.j.JMeter: user.dir  =C:\R\apache-jmeter-5.3\bin
+2021-05-03 20:59:53,834 INFO o.a.j.JMeter: PWD       =C:\R\apache-jmeter-5.3\bin
+2021-05-03 20:59:53,946 INFO o.a.j.JMeter: IP: 192.168.0.110 Name: PrateekMS FullName: 192.168.0.110
+2021-05-03 20:59:54,069 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-05-03 20:59:54,375 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-05-03 20:59:57,967 WARN o.j.r.PluginManager: Found JAR conflict: C:\R\apache-jmeter-5.3\lib\ext\jmeter-plugins-manager-1.6.jar and C:\R\apache-jmeter-5.3\lib\ext\jmeter-plugins-manager-1.4.jar
+2021-05-03 20:59:58,831 INFO o.j.r.JARSourceHTTP: Found cached repo
+2021-05-03 20:59:58,971 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.4, jpgc-webdriver=3.3, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3]
+2021-05-03 20:59:58,974 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2021-05-03 21:00:07,195 INFO o.a.j.s.FileServer: Default base='C:\R\apache-jmeter-5.3\bin'
+2021-05-03 21:00:07,199 INFO o.a.j.g.a.Load: Loading file: C:\R\JMeter-AKS-LoadTest\JMeterFiles\SampleTestPlan.jmx
+2021-05-03 21:00:07,199 INFO o.a.j.s.FileServer: Set new base='C:\R\JMeter-AKS-LoadTest\JMeterFiles'
+2021-05-03 21:00:07,306 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-05-03 21:00:07,320 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-05-03 21:00:07,322 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-05-03 21:00:07,323 INFO o.a.j.s.SaveService: Loading file: C:\R\JMeter-AKS-LoadTest\JMeterFiles\SampleTestPlan.jmx
+2021-05-03 21:00:07,439 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-03 21:00:07,439 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-03 21:00:07,440 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-03 21:00:07,440 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-05-03 21:00:07,440 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-05-03 21:00:07,440 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-05-03 21:00:07,589 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-05-03 21:00:07,589 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-05-03 21:00:07,590 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-05-03 21:00:07,590 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-05-03 21:00:07,734 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-05-03 21:00:07,831 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-05-03 21:00:07,916 INFO o.a.j.s.FileServer: Set new base='C:\R\JMeter-AKS-LoadTest\JMeterFiles'
